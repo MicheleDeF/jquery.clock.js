@@ -1,0 +1,36 @@
+{
+    "name": "clock",
+    "title": "jQuery Clock",
+    "description": "jQuery plugin per orologio live",
+    "keywords": [
+        "orologio live",
+        "plug in per orologio live",
+        
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "michele de falco",
+        "url": "https://github.com/MicheleDeF"
+    },
+    "maintainers": [
+        {
+            "name": "Michele De Falco",
+            "email": "defalco_michele@libero.it",
+            "url": "https://github.com/MicheleDeF"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.githubusercontent.com/MicheleDeF/jquery.slideshow.js/master/LICENSE"
+            
+        }
+    ],
+    
+    "homepage": "https://github.com/MicheleDeF/slideshow",
+    "docs": "https://github.com/MicheleDeF/clock",
+    "download": "https://github.com/MicheleDeF/clock/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
