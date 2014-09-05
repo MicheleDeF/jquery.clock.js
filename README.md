@@ -29,7 +29,7 @@
 > "font_size" e "color" sono rispettivamente il valore in pixel e il colore dei numeri dell'orologio che possiamo scegliere a nostro piacimento ( in questo esempio sono 18px e colore verde ), di default sono impostati a 22px e colore rosso.
 
 ###Demo
- 
-<iframe src="http://micheledefalco.altervista.org/github/clock/clock.html" style="border:none;"></iframe>  
 
+[clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
+<iframe src="http://micheledefalco.altervista.org/github/clock/clock.html" style="border:none;"></iframe> 
