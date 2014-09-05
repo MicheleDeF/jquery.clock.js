@@ -12,7 +12,7 @@
 
 >usare un div con una classe qualunque ( in questo caso ho scelto watch ), e inserire l'ultima versione di jquery e il plug-in jquery.clock.js
 
-    <script src="js/jquery-1.9.1.js" type="text/javascript"></script>
+    <script src="jquery-1.9.1.js" type="text/javascript"></script>
      
     <script src="jquery.clock.js" type="text/javascript"></script>
      
