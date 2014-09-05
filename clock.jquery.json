@@ -22,14 +22,14 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://raw.githubusercontent.com/MicheleDeF/jquery.slideshow.js/master/LICENSE"
+            "url": "https://raw.githubusercontent.com/MicheleDeF/jquery.clock.js/master/LICENSE"
             
         }
     ],
     
-    "homepage": "https://github.com/MicheleDeF/slideshow",
-    "docs": "https://github.com/MicheleDeF/clock",
-    "download": "https://github.com/MicheleDeF/clock/archive/master.zip",
+    "homepage": "https://github.com/MicheleDeF/jquery.clock.js",
+    "docs": "https://github.com/MicheleDeF/jquery.clock.js",
+    "download": "https://github.com/MicheleDeF/jquery.clock.js/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.5"
     }
