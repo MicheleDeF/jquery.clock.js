@@ -1,23 +1,23 @@
 # JQuery Clock
 
->Clock è un plug-in jquery per olorologio live
+>Clock is a plug-in for jQuery olorologio digital live.
 
-###Come iniziare
+###How to get started
 
->Codice HTML
+>HTML Code
 
     <div class="watch"></div>
 
 
 
->usare un div con una classe qualunque ( in questo caso ho scelto watch ), e inserire l'ultima versione di jquery e il plug-in jquery.clock.js
+>use a div with a class whatever (in this case I chose watch), and include the latest version of jquery and the plug-in jquery.clock.js.
 
     <script src="jquery-1.9.1.js" type="text/javascript"></script>
      
     <script src="jquery.clock.js" type="text/javascript"></script>
      
-###Il Plug-in jquery.clock.js     
->A questo punto per ottenere l'orologio live:
+###jquery.clock.js     
+>At this point, to obtain the clock live:
 
     <script type="text/javascript">
          $(document).ready(function(){
@@ -26,10 +26,10 @@
             });
     </script>
     
-> "font_size" e "color" sono rispettivamente il valore in pixel e il colore dei numeri dell'orologio che possiamo scegliere a nostro piacimento ( in questo esempio sono 18px e colore verde ), di default sono impostati a 22px e colore rosso.
+>"font_size" and "color" are respectively the pixel value and the color of the numbers of the clock that we can choose at will (in this example are 18px and green) by default are set to 22px and the color red.
 
 ###Demo
 
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
-<iframe src='http://micheledefalco.altervista.org/github/clock/clock.html' style='border:none'></iframe> 
+
