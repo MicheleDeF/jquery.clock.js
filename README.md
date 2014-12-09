@@ -32,4 +32,4 @@
 
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
-<iframe></iframe>
+<iframe/>
