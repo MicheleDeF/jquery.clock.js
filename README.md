@@ -31,5 +31,5 @@
 ###Demo
 
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
-
+[logo]: http://www.google.com/images/logo.gif
 
