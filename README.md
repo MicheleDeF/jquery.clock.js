@@ -33,17 +33,10 @@
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
 
-<iframe src='http://micheledefalco.altervista.org/github/clock/clock.html'></iframe>
 
-<h2>Example of code</h2>
+
+
 
 <pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-                //Your content
-            </div>
-        </div>
-    </div>
+  <iframe src='http://micheledefalco.altervista.org/github/clock/clock.html'></iframe> 
 </pre>
