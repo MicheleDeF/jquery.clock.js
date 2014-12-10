@@ -36,6 +36,15 @@
 
 <script type="tex/javascript" src="http://micheledefalco.altervista.org/js/jquery-1.9.1.js"></script>
 
+ <script type="text/javascript">
+        $(document).ready(function(){
+        $('.watch').clock({font_size:18 , color:'green'}
+            
+            );
+        });
+    </script>
+  
 
+<div class="watch"></div>
 
 
