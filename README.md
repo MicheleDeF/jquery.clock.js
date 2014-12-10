@@ -33,6 +33,6 @@
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
 
-<iframe src='[clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)'></iframe>
+<iframe src='http://micheledefalco.altervista.org/github/clock/clock.html' style="background:red;"></iframe>
 
 
