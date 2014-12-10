@@ -34,9 +34,3 @@
 
 
 
-
-
-
-<pre>
-  <iframe src='http://micheledefalco.altervista.org/github/clock/clock.html'></iframe> 
-</pre>
