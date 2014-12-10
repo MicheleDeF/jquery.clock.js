@@ -34,6 +34,8 @@
 
 <script type="tex/javascript" src="https://raw.githubusercontent.com/MicheleDeF/jquery.clock.js/master/jquery.clock.js"></script>
 
+<script type="tex/javascript" src="http://micheledefalco.altervista.org/js/jquery-1.9.1.js"></script>
+
 
 
 
