@@ -32,19 +32,3 @@
 
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
-<script type="tex/javascript" src="https://raw.githubusercontent.com/MicheleDeF/jquery.clock.js/master/jquery.clock.js"></script>
-
-<script type="tex/javascript" src="http://micheledefalco.altervista.org/js/jquery-1.9.1.js"></script>
-
- <script type="text/javascript">
-        $(document).ready(function(){
-        $('.watch').clock({font_size:18 , color:'green'}
-            
-            );
-        });
-    </script>
-  
-
-<div class="watch"></div>
-
-
