@@ -35,4 +35,4 @@
 
 <iframe src="http://micheledefalco.altervista.org/github/clock/clock.html"></iframe>
 
-![](http://velocityagency.com/wp-content/uploads/2013/08/go.jpg)
+
