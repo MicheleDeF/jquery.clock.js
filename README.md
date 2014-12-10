@@ -32,5 +32,8 @@
 
 [clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
 
+<script type="tex/javascript" src="https://raw.githubusercontent.com/MicheleDeF/jquery.clock.js/master/jquery.clock.js"></script>
+
+
 
 
