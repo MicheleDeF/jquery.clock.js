@@ -1,6 +1,6 @@
 # JQuery Clock
 
->Clock is a jQuery plug-in for  olorologio digital live.
+>Clock is a jQuery plug-in for  digital clock live.
 
 ###How to get started
 
