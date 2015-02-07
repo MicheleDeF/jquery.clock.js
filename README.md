@@ -30,5 +30,5 @@
 
 ###Demo
 
-[clock.html](http://codepen.io/MicheleDeF/pen/azVEBx)
+[http://codepen.io/MicheleDeF/pen/azVEBx](http://codepen.io/MicheleDeF/pen/azVEBx)
 
