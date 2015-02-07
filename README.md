@@ -30,5 +30,5 @@
 
 ###Demo
 
-[clock.html](http://micheledefalco.altervista.org/github/clock/clock.html)
+[clock.html](http://codepen.io/MicheleDeF/pen/azVEBx)
 
