@@ -26,9 +26,6 @@
             });
     </script>
     
->"font_size" and "color" are respectively the pixel value and the color of the numbers of the clock that we can choose at will (in this example are 18px and green) by default are set to 22px and the color red.
 
-###Demo
-
-[http://codepen.io/MicheleDeF/pen/azVEBx](http://codepen.io/MicheleDeF/pen/azVEBx)
-
+<p data-height="268" data-theme-id="0" data-slug-hash="MYOrJq" data-default-tab="result" data-user="MicheleDeF" class='codepen'>See the Pen <a href='http://codepen.io/MicheleDeF/pen/MYOrJq/'>MYOrJq</a> by michele de falco (<a href='http://codepen.io/MicheleDeF'>@MicheleDeF</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
