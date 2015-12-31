@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Jquery.clock.js by MicheleDeF</title>
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/MicheleDeF/jquery.clock.js">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Jquery.clock.js</h1>
+            <h2>JQuery plugin to watch live digital</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+          <a href="https://github.com/MicheleDeF/jquery.clock.js/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/MicheleDeF/jquery.clock.js/tarball/master" class="tgz"><em>download</em> .TGZ</a>
+        </span>
+      </section>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <h1>
+<a id="jquery-clock" class="anchor" href="#jquery-clock" aria-hidden="true"><span class="octicon octicon-link"></span></a>JQuery Clock</h1>
+
+<blockquote>
+<p>Clock is a jQuery plug-in for  digital clock live.</p>
+</blockquote>
+
+<h3>
+<a id="how-to-get-started" class="anchor" href="#how-to-get-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to get started</h3>
+
+<blockquote>
+<p>HTML Code</p>
+</blockquote>
+
+<pre><code>&lt;div class="watch"&gt;&lt;/div&gt;
+</code></pre>
+
+<blockquote>
+<p>use a div with a class whatever (in this case I chose watch), and include the latest version of jquery and the plug-in jquery.clock.js.</p>
+</blockquote>
+
+<pre><code>&lt;script src="jquery-1.9.1.js" type="text/javascript"&gt;&lt;/script&gt;
+
+&lt;script src="jquery.clock.js" type="text/javascript"&gt;&lt;/script&gt;
+</code></pre>
+
+<h3>
+<a id="jqueryclockjs" class="anchor" href="#jqueryclockjs" aria-hidden="true"><span class="octicon octicon-link"></span></a>jquery.clock.js</h3>
+
+<blockquote>
+<p>At this point, to obtain the clock live:</p>
+</blockquote>
+
+<pre><code>&lt;script type="text/javascript"&gt;
+     $(document).ready(function(){
+     $('.watch').clock({font_size:18 , color:'green'}
+          );
+        });
+&lt;/script&gt;
+</code></pre>
+
+<blockquote>
+<p>"font_size" and "color" are respectively the pixel value and the color of the numbers of the clock that we can choose at will (in this example are 18px and green) by default are set to 22px and the color red.</p>
+</blockquote>
+
+See the Pen <a href="http://codepen.io/MicheleDeF/pen/YwpoaJ/">YwpoaJ</a> by michele de falco (<a href="http://codepen.io/MicheleDeF">@MicheleDeF</a>) on <a href="http://codepen.io">CodePen</a>.
+
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a href="https://github.com/MicheleDeF">MicheleDeF</a> can be found on <a href="https://github.com/MicheleDeF/jquery.clock.js">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
