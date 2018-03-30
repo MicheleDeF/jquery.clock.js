@@ -1,10 +1,9 @@
 {
     "name": "clock",
     "title": "jQuery Clock",
-    "description": "jQuery plugin per orologio live",
+    "description": "jQuery live clock plugin",
     "keywords": [
-        "orologio live",
-        "plug in per orologio live",
+        "clock"
         
     ],
     "version": "0.1",
