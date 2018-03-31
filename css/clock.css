@@ -1,0 +1,77 @@
+#clock{
+        position: relative;
+        width: 140px;
+        height: 140px;
+        -moz-border-radius: 50%;
+       -webkit-border-radius: 50%;
+       border-radius: 50%;
+        border: 30px solid #93cf93;
+        margin: auto;
+       
+          
+
+        
+        }
+        
+      #clock:after{
+        content: "";
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+        background: #93cf93;
+        top: 50%;left: 50%;
+        transform: translate(-10px, -10px); /* Regola Standard */
+        -ms-transform: translate(-10px, -10px) ; /* Internet Explorer */
+        -moz-transform: translate(-10px, -10px); /* Firefox */
+        -webkit-transform: translate(-10px, -10px);/* Safari e Chrome*/
+        -o-transform: translate(-10px, -10px); /* Opera */    
+
+        
+        
+       }  
+     #secondi , #ore , #minuti{
+        position: absolute;
+        width: 140px;
+        height: 140px;
+        -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+        
+   
+
+        
+        } 
+     
+     #secondi:after{
+        content: "";
+        position: absolute;
+        width: 1px;
+        height: 65px;
+        background: #93cf93;
+        left: 69px;top:5px;
+     }
+   
+     #ore:after{
+     content: "";
+        position: absolute;
+        width: 20px;
+        height: 40px;
+        background: #93cf93;
+        left: 60px; top: 30px;
+    
+    
+   }
+   
+   #minuti:after{
+   content: "";
+   position: absolute;
+   width: 10px;
+   height: 55px;
+   background: #93cf93;
+   left: 65px; top: 15px; 
+    
+    
+   }
